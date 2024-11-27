@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @dlumarque
-- 👀 I’m interested in Web Design, Jazz Piano, Distance Running, and Learning Languages 🤓
-- 🌱 I’m currently learning JavaScript, advanced CSS skills, and how to build compelling websites
-- 👨🏽‍💻 I’m looking to collaborate on design projects (preferably site design, but also design and aesthetics more broadly)
-- 📫 How to reach me ...
+- 👋🏽 Hi, I’m @dlumarque
+- 🤓  I’m a Stanford Engineering grad leveraging Web Design and AI tools to realize ideas and solve valuable problems.
+- ⭐️  I admire sleek site designs and am inspired by recent updates in AI technology.
+- 🎹  Non-coding interests include Jazz Piano, Distance Running, and Language Learning.
+- 🌱  I’m learning & using React & Firebase atm, and feel excited when I execute consecutive commands in Terminal from memory.
+- 👨🏽‍💻  Open to collaborate on AI development and site design projects and build my experience in the real world!
+- 📫  How to reach me ...
       email! dlumarque@gmail.com 
 
 <!---
