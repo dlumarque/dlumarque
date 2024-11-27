@@ -4,8 +4,7 @@
 - 🎹  Non-coding interests include Jazz Piano, Distance Running, and Language Learning.
 - 🌱  I’m learning & using React & Firebase atm, and feel excited when I execute consecutive commands in Terminal from memory.
 - 👨🏽‍💻  Open to collaborate on AI development and site design projects and build my experience in the real world!
-- 📫  How to reach me ...
-      email! dlumarque@gmail.com 
+- 📫  You can email me at dlumarque@gmail.com 
 
 <!---
 dlumarque/dlumarque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
